@@ -1,5 +1,5 @@
 {
   "latest": "1.8",
-  "updateurl": "https://parkmanager.tech/srptools/srptools.luac",
-  "updlist": "- fixbag"
+  "updateurl": "https://github.com/BALIGINS/srptools_new/raw/refs/heads/main/srptools.luac",
+  "updlist": "- new /su, new wanted"
 }
